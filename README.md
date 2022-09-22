@@ -1,0 +1,2 @@
+# GitOrganicos
+Repositorio proyecto MiniTic
